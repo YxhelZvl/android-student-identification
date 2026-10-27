@@ -14,6 +14,20 @@ Aplicacion movil para Android orientada a la identificacion digital de estudiant
 - Persistencia local de la sesion mediante DataStore.
 - Interfaz Android construida con Jetpack Compose y Material 3.
 
+## Capturas de la aplicacion
+
+Estas capturas muestran el flujo principal de UMSNH-ID y fueron tomadas de las
+pruebas documentadas en el reporte del proyecto. Los datos visibles fueron
+sustituidos por valores ficticios para no publicar informacion personal.
+
+| Inicio de sesion | Pantalla principal |
+|---|---|
+| <img src="docs/screenshots/login.png" alt="Pantalla de inicio de sesion" width="260"> | <img src="docs/screenshots/home.png" alt="Pantalla principal con informacion del estudiante" width="260"> |
+
+| Generacion del codigo QR |
+|---|
+| <img src="docs/screenshots/qr.png" alt="Pantalla de generacion de codigo QR" width="260"> |
+
 ## Arquitectura
 
 El proyecto esta dividido en dos aplicaciones:
